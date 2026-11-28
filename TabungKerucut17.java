@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TabungKerucutNoAbsen {
+public class TabungKerucut17 {
     // Fungsi untuk menghitung luas lingkaran
     public static double luasLingkaran(double r) {
         return Math.PI * r * r;
